@@ -1,0 +1,8 @@
+# Unpublished concept. Publication requires the owner's approval and a new user request.
+[build]
+  command = "echo 'Publication blocked: unpublished website concept.' && exit 1"
+  publish = "public"
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow, noarchive"
