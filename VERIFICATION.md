@@ -13,3 +13,7 @@ Verified all three phone anchors use `tel:+15163953728`, including “Call for a
 All four requested services are present. “Unofficial website concept” appears above the header and in the footer. The stock image is labeled “Illustrative photo.” Street address, hours, pricing, credentials, and service-area boundaries are omitted.
 
 Netlify project created without a deployment; no Git integration enabled. A failing build command guards against automatic publication. Source is in the public GitHub repository per the standing workspace instructions; the website preview itself is local and unpublished. `.netlify/` is ignored.
+
+## Research update — November 24, 2026
+
+Added the verified Nextdoor profile link, owner-advertised minor electrical/plumbing repairs, and backyard projects. Actual-business-photo search did not yield a verified image; retained the explicitly labeled illustrative photo. See SOURCES.md for findings and exclusions.
